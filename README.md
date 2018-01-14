@@ -7,6 +7,6 @@ Instructions:
 
 2 - make
 
-3 - ./deflate <Filename>
+3 - ./deflate *Filename*
 
 Have fun!!
